@@ -196,6 +196,7 @@ bottom: 100px;
 background: #FFF4E7;
 width: 1400px;
 margin: 0 auto;
+margin-bottom: 100px;
 }
 .foot h1{
     color: var(--Dark-02, #424242);
